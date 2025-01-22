@@ -2,7 +2,7 @@ California Fire Parameters Prediction using Machine Learning
 -Project Description
 This project analyzes and predicts fire parameters in California using a machine learning approach. It leverages historical fire perimeter data to classify the causes of wildfires based on various features such as location, area, and temporal factors. The aim is to support wildfire management efforts by providing insights and predictive capabilities.
 
--Data Source
+-Data Source: California National Orientiation Agency
 
 -Dataset
 The dataset used in this project contains detailed information about fire perimeters in California, including:
@@ -43,7 +43,7 @@ ii) Insightful analysis of temporal and spatial fire characteristics.
 iii) A modular and reproducible machine learning pipeline.
 
 - Requirements
-Python 3.7+
+Python 
 Libraries:
 pandas
 numpy
